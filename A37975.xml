@@ -1,0 +1,516 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament for the leaving of moneys by way of excise or new-impost as well for the better securing of trade, as for the maintenance of the army raised by the Parliament and payment of the debts of the Commonwealth : wherein the said Lords and Commons have thought fit to alter the rates printed in a former ordinance : and to impose other and lower charges upon the severall commodities herein expressed, as by a schedule hereunto annexed appeareth.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37975</idno>
+            <idno type="STC">Wing E1987</idno>
+            <idno type="STC">ESTC R29756</idno>
+            <idno type="EEBO-CITATION">11203478</idno>
+            <idno type="OCLC">ocm 11203478</idno>
+            <idno type="VID">46727</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament for the leaving of moneys by way of excise or new-impost as well for the better securing of trade, as for the maintenance of the army raised by the Parliament and payment of the debts of the Commonwealth : wherein the said Lords and Commons have thought fit to alter the rates printed in a former ordinance : and to impose other and lower charges upon the severall commodities herein expressed, as by a schedule hereunto annexed appeareth.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 [ie. 21] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes and John Raworth,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"In this schedule are contained the excise and new-impost"--p. 3-2 [ie. 18]</note>
+                  <note>Numerous errors in paging.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+                  <note>With: An ordinance and declaration of the Lord[s] and Commons assembled in Parliament touching the salary and allowance to be made to the commissioners and auditors of the excise--p. 15 [ie. 19]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Law and legislation --  England.</term>
+               <term>Finance, Public --  Great Britain --  To 1688.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46727:1"/>
+            <pb facs="tcp:46727:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF <hi>The Lords and Commons aſſembled in</hi> PARLIAMENT: For the Leavying of MONEYS, by way of Exciſe, <hi>or,</hi> New-Impoſt, As well for the better ſecuring of TRADE, as for the maintenance of the ARMY raiſed by the PARLIAMENT, and payment of the <hi>Debts</hi> of the <hi>Common-wealth.</hi>
+            </p>
+            <p>Wherein the ſaid LORDS and COMMONS have thought fit <hi>To alter the</hi> Rates <hi>Printed in a former Ordinance,</hi> And to impoſe other and lower CHARGES upon the ſeverall Commodities herein expreſſed, as by a SCHEDULE hereunto annexed appeareth.</p>
+            <p>
+               <hi>ORdered by the Commons in Parliament aſſembled, That this Ordinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</hi>
+            </p>
+            <p>H Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>LONDON: Printed,</hi> by <hi>Richard Cotes</hi> and <hi>John Raworth,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46727:2"/>
+            <pb n="1" facs="tcp:46727:2"/>
+            <head>An Ordinance of the <hi>Lords</hi> and <hi>Commons</hi> in Parliament, for the ſpeedy Raiſing and Levying of Moneys, by way of Charge and New-Impoſt, up<g ref="char:EOLhyphen"/>on the ſeverall Commodities, in a Schedule hereunto annexed, contained, as well for the better ſecuring of Trade, as for the maintenance of the Forces raiſed for the defence of the King, Parliament, and King<g ref="char:EOLhyphen"/>dom, both by Sea and Land, as for and towards the payment of the Debts of the Common-wealth, for which the Publike Faith is, or ſhall be ingaged.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in Parliament, taking into their ſerious conſideration the great neceſsitie, of providing preſent ſupply for the preſervation of this Kingdom, our Religion, Laws, and Liberties, from ut<g ref="char:EOLhyphen"/>ter ruine and deſtruction, by the reſtleſſe and cruell De<g ref="char:EOLhyphen"/>ſignes, Practices, and Treacheries of Papiſts, and Ma<g ref="char:EOLhyphen"/>lignant perſons; And for that many great Leavies have been already made for the purpoſes aforeſaid, which the well-affected of the Kingdom have willingly born, and the Malignants have endeavoured by all cun<g ref="char:EOLhyphen"/>ning wayes to evade. By reaſon whereof, the ſaid Lords and Commons hold it fit, That ſome conſtant and indifferent way ſhould be had and eſta<g ref="char:EOLhyphen"/>bliſhed, for the Leavying of Moneyes for the future maintenance of the Parliament Forces, and other great Affairs of the Common wealth; whereby the Malignants and Neutralls may be compelled to pay their pro<g ref="char:EOLhyphen"/>portionable parts of the ſaid Charges, and the Subjects in generall be rated and taxed with as much eaſe and indifferency as may be: For which pur<g ref="char:EOLhyphen"/>poſe, an Ordinance was lately made by the ſaid Lords and Commons, for
+<pb n="2" facs="tcp:46727:3"/> ſetting of a Charge, or new Impoſt upon the ſeverall Commodities in a Schedule thereunto annexed ſpecified. Now for the better and more ſpee<g ref="char:EOLhyphen"/>dy advancement of this work, and the more eaſie Payment of the ſaid Charge, and for other weighty conſiderations, the ſaid Lords and Commons have thought fit to alter the ſaid former Rates, and to impoſe other and lower Charges upon the ſeverall Commodities in a Schedule hereunto an<g ref="char:EOLhyphen"/>nexed expreſſed, then were impoſed by the ſaid former Ordinance; And do therefore Ordain, That the ſaid former Ordinance, and every matter therein contained, be hereby adnulled and repealed, and not to be put in execution in all or any part thereof, by any perſon or perſons whatſoever, but that this preſent Ordinance do take effect, and be obſerved by all and every perſon and perſons, as if the ſaid former Ordinance had not been made. And the ſaid Lords and Commons do hereby Ordain and Declare, That the ſeverall Rates and Charges in the Schedule hereunto annexed contained, ſhall be ſet and laid, and are hereby ſet, laid, and impoſed, upon all and every the commodities within this Realm, the Dominion of <hi>Wales,</hi> and Town of <hi>Berwick,</hi> over and above all Cuſtomes, and other Duties, due and payable for the ſame.</p>
+            <div type="schedule">
+               <head>The Schedule.</head>
+               <p>
+                  <hi>IN this Schedule are contained the Exciſe, and new Impoſt, by this Ordinance, ſet and impoſed upon the ſeverall Commodities herein mentioned.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="3">
+                           <hi>Tobacco</hi>
+                        </cell>
+                        <cell>FOr every pound of Tobacco which is not of the Engliſh Plantations, as well al<g ref="char:EOLhyphen"/>ready imported, and remaining in the hands of the Merchant or Importer, as to be imported to be paid by the firſt buyer thereof from the Merchant or Importer, two ſhillings</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <pb n="3" facs="tcp:46727:3"/>
+                     <row>
+                        <cell>For every Pound of Tobacco of the Eng<g ref="char:EOLhyphen"/>liſh Plantations, as well imported, and remai<g ref="char:EOLhyphen"/>ning in the hands of the Merchant or Impor<g ref="char:EOLhyphen"/>ter, as to be imported to be paid by the firſt Buyer thereof, from the Merchant or Impor<g ref="char:EOLhyphen"/>ter, four pence</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>For all Tobacco now remaining in the hands of the Ingroſſer or Seller thereof, by whole ſale, to be paid by the ſaid Ingroſſer or Seller upon the ſale thereof, the like reſpe<g ref="char:EOLhyphen"/>ctive Rates as aforeſaid.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="5">
+                           <hi>Wines.</hi>
+                        </cell>
+                        <cell>For every Tun of Wine already imported or to be imported to be paid by the firſt Buy<g ref="char:EOLhyphen"/>er thereof from the Merchant or Importer, and ſo after that Rate for a greater or leſſer quantity, five pound</cell>
+                        <cell>05</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For every Tun of Wine bought for private uſe, to be paid by the firſt Buyer thereof, from the Merchant or Importer, and fo after that Rate for a greater or leſſer quantity, five pound</cell>
+                        <cell>05</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Which Rates ſo to be paid by the Retai<g ref="char:EOLhyphen"/>lers of Wine ſhall be allowed them upon the ſale thereof in the price.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>And for all Wines now remaining in the Vintners or Retailers hands, they ſhall pay onely half Exciſe, the ſame to be allowed them in the price thereof upon the ſale.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>And for all Wines remaining in the hands of the Cooper or other Trader in Wine, they ſhall pay the whole Exciſe, the ſame to be al<g ref="char:EOLhyphen"/>lowed them in the price upon the ſale thereof.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <pb n="4" facs="tcp:46727:4"/>
+                     <row>
+                        <cell role="label" rows="2">
+                           <hi>Strong Waters</hi>
+                        </cell>
+                        <cell>For all ſtrong Waters, and <hi>Aqua vitae</hi> im<g ref="char:EOLhyphen"/>ported, or to be imported, to be paid by the firſt buyer thereof from the Merchant or Im<g ref="char:EOLhyphen"/>porter, and ſo after that Rate for a greater or leſſer quantity, after the Rate of eight pence the Gallon.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>And for all ſtrong Waters and <hi>Aqua vitae</hi> made or diſtilled within the Realm, Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> or Town of <hi>Berwicke,</hi> the like Rate to be paid by the Maker or Diſtiller thereof.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">
+                           <hi>Beere and Ale.</hi>
+                        </cell>
+                        <cell>For every Barrell of Beer or Ale of eight ſhillings the Barrell and upwards ſold, to be paid by the Brewer or Maker thereof, and to be allowed him in the price therof, two ſhillings.</cell>
+                        <cell>00</cell>
+                        <cell>02</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For every Barrell of Beer or Ale of eight ſhillings the Barrell, and upwards, which any Houſe-keeper Breweth for his own ſpending, to be paid by every ſuch Houſe-keeper, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For every Barrell of ſix ſhillings Beer, or above four ſhillings the Barrell, ſold, to be paid by the Brewer or Maker thereof, and to be allowed him in the price, ſix pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>And the like Rate to be paid by all others who Brew the like Beer for their own ſpend<g ref="char:EOLhyphen"/>ing.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="3">
+                           <hi>Perry and Syder.</hi>
+                        </cell>
+                        <cell>For every Hogs head of Perry or Syder, ſold, to be paid by the firſt Retailer thereof, and ſo after the ſame Rate for a Barrell, or any Meaſure above a Barrell, two ſhillings.</cell>
+                        <cell>00</cell>
+                        <cell>02</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="5" facs="tcp:46727:4"/>
+                     <row>
+                        <cell>For every Hogs-head of Perry or Syder bought for private uſe, to be paid by the firſt buyer thereof, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For every Hogs-head of Perry or Syder which any Houſe-keeper maketh for his own ſpending, to be paid by every ſuch Houſe-keeper, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Provided, That for all Beer or Ale, Perry or Syder now remaining in the hands of any Inne-holders, or other Retailers thereof, they ſhall onely pay the half Exciſe.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>And for all Beer or Ale, Perry or Syder to be uſed for fiſhing at Sea, no Exciſe to be paid.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Grocery</hi>
+                        </cell>
+                        <cell>For all Grocery Ware imported, or to be imported, for every twenty ſhillings value thereof, and ſo proportionably for a greater or leſſer value, to be paid by the firſt buyer thereof from the Merchant or Importer, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Druggs</hi>
+                        </cell>
+                        <cell>
+                           <hi>Item,</hi> For all ſorts of Druggs imported or to be imported, for every twenty ſhillings va<g ref="char:EOLhyphen"/>lue thereof, and ſo after that Rate for a greater or leſſer value, to be paid by the firſt buyer thereof from the Merchant or Importer, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="6" facs="tcp:46727:5"/>
+                     <row>
+                        <cell role="label">
+                           <hi>Mer<g ref="char:EOLhyphen"/>cery.</hi>
+                        </cell>
+                        <cell>For all ſorts of Mercery-ware imported, or to be imported for every twenty ſhillings value thereof, and ſo proportionably for a greater or leſſer value to be paid by the firſt Buyer thereof, from the Merchant or Impor<g ref="char:EOLhyphen"/>ter, twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="3">
+                           <hi>Silkes Impor<g ref="char:EOLhyphen"/>ted.</hi>
+                        </cell>
+                        <cell>For all Raw Silkes imported or to be im<g ref="char:EOLhyphen"/>ported for every twenty ſhillings value there<g ref="char:EOLhyphen"/>of, and ſo proportionably for a greater or leſ<g ref="char:EOLhyphen"/>ſer value, ſix pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>For other Silk in the Gumm, ready thrown imported, or to be imported for every twenty ſhillings value thereof, and ſo proportionably, nine pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>For all other Silkes Dyed, imported, or to be imported for every twenty ſhillings value thereof, and ſo proportionably the ſaid ſeve<g ref="char:EOLhyphen"/>rall Rates for Silkes to be paid by the firſt Buyer thereof, from the Merchant or Impor<g ref="char:EOLhyphen"/>ter, twelve pence</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Lynnen Drape<g ref="char:EOLhyphen"/>ry.</hi>
+                        </cell>
+                        <cell>For all ſorts of Linnen, both fine and courſe imported, or to be imported for every twenty ſhillings value thereof, and ſo proportionably to be paid by the firſt Buyer thereof, from the Merchant or Importer, twelve pence</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Haber<g ref="char:EOLhyphen"/>daſhery</hi>
+                        </cell>
+                        <cell>For all ſorts of Habberdaſhery-ware im<g ref="char:EOLhyphen"/>ported, or to be imported, for every twenty ſhillings value thereof, and ſo proportionably to be paid by the firſt Buyer thereof, from the Merchant or Importer, twelve pence</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="7" facs="tcp:46727:5"/>
+                     <row>
+                        <cell role="label">Upholſtry</cell>
+                        <cell>For all ſorts of Upholſtery Ware Imported and to be Imported, for every Twenty ſhillings value thereof and ſo proportionably to be paid by the firſt Buyer thereof from the Merchant or Importer, Twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Saltry.</cell>
+                        <cell>For all ſorts of Saltery wares Imported or to be Imported, for every Twenty ſhillings va<g ref="char:EOLhyphen"/>lue thereof, and ſo proportionably to be paid by the firſt Buyer thereof from the Merchant or Importer, Six pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">Sope.</cell>
+                        <cell rows="3">For all Sope made within the Realm, Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> or Towne of <hi>Berwick,</hi> for every Firkin of the beſt ſort, Ten pence; and for eve<g ref="char:EOLhyphen"/>ry Firkin of the ſecond ſort, Nine pence; and for every Firkin of the worſt ſort, Eight pence; and ſo proportionably for a greater or leſſer quantity to be paid by the maker thereof.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>For all Sope Imported or to bee Imported, for every Twenty ſhillings value thereof, and ſo proportionably to be paid by the firſt Buyer thereof from the Merchant or Importer, Eigh<g ref="char:EOLhyphen"/>teen pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Drapery, new &amp; old</cell>
+                        <cell>For all ſorts of Woollen Cloth, and other commodities made of, or mixt with Wooll, made or ſpent within this Realm, the Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> or Towne of <hi>Berwick,</hi> for every Twenty ſhillings value thereof, and ſo propor<g ref="char:EOLhyphen"/>tionably to be paid by the firſt Buyer thereof, Six pence.</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <pb n="8" facs="tcp:46727:6"/>
+                     <row>
+                        <cell role="label">Paper.</cell>
+                        <cell>For all Paper bought of the Merchant, for every Twenty ſhillings value thereof, and ſo proportionably to bee paid by the firſt Buyer thereof from the Merchant or Importer, Twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Skins and Leather.</cell>
+                        <cell>For all Skins and Leather Imported or to be Imported, for every Twenty ſhillings value thereof, and ſo proportionably to be paid by the firſt Buyer thereof from the Merchant or Importer, Twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Glaſſ-men</cell>
+                        <cell>For all Glaſſes and earthen Ware Imported or to be Imported, for every twenty ſhillings value thereof, and ſo proportionably to be paid by the firſt Buyer thereof from the Merchant or Importer, Twelve pence.</cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>All which Rates to bee paid for any Forraign Com<g ref="char:EOLhyphen"/>modities Imported, ſhall bee paid by the firſt Buyer thereof from the Merchant or Importer, or from the Broker who uſeth to deale betweene the Merchant and the Shop-keeper, and for all the Commodities hereby charged with the <hi>Exciſe</hi> in manner aforeſaid, which ſhall be ſold or delivered at a price.</p>
+               <div type="part">
+                  <p n="1">I. PRovided that this Ordinance ſhall not extend to any the Commodities in the ſaid Schedule men<g ref="char:EOLhyphen"/>tioned, which are already bought from the Merchant, or Importer thereof, by any perſon or perſons who hath bought the ſame to ſell againe, or ſpend, except it bee otherwiſe particularly expreſſed in the ſaid Schedule.</p>
+                  <p n="2">II. And be it ordained, That every perſon or per<g ref="char:EOLhyphen"/>ſons
+<pb n="9" facs="tcp:46727:6"/> who hath Imported, or ſhall import any the Commodities in the ſaid Schedule mentioned, for his owne private uſe or ſpending, or for any other purpoſe then to ſell againe, ſhall pay the Rates and Charges hereby ſet and Impoſed upon the ſame Commodi<g ref="char:EOLhyphen"/>ties.</p>
+                  <p n="3">III. Item, For all Commodities here Rated, which are firſt Imported, and after Exported beyond the Sea, the Exciſe thereof being paid, and due proofe thereof made by Oath of the party or Witneſſes; which Oath the ſaid Commiſſioners, or the major part of them, or ſuch as they ſhall appoint under their Hands and Seales, ſhall have power to adminiſter, ſhall be repaid, and the ſaid Commiſſioners and their Deputies ſhall have power to repay the ſame accordingly; Provided, that if any Merchant, or other Buyer of any Clothes, or other Woollen commodities made within this Realme, the Dominion of <hi>Wales,</hi> or Town of <hi>Berwick,</hi> ſhall buy the ſame to Tranſport beyond the Seas, and ſhall accor<g ref="char:EOLhyphen"/>dingly Tranſport the ſame, then no Exciſe thereof to be paid.</p>
+                  <p n="4">IV. And for the better levying of the Moneyes here<g ref="char:EOLhyphen"/>by to be raiſed, Be it Ordained by the Lords and Commons, That an Office be from henceforth erected in the City of <hi>London,</hi> called <hi>The Office of Exciſe,</hi> or <hi>New Impoſt;</hi> whereof there ſhall be ſeven Commiſſio<g ref="char:EOLhyphen"/>ners to govern the ſame, who are hereby appoin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed and nominated: And the ſaid Commiſſioners, or the Survi<g ref="char:EOLhyphen"/>vors of them, or ſuch as ſhall be hereafter appointed, or the greater part of them, ſhall have power, and are here<g ref="char:EOLhyphen"/>by Authorized from time to time to chooſe a Treaſurer or Treaſurers, being one or more of themſelves; and alſo ſhall chooſe Regiſters, Collectors, Clerkes, and
+<pb n="10" facs="tcp:46727:7"/> other ſubordinate Officers (for whom they ſhall be an<g ref="char:EOLhyphen"/>ſwerable) whom the ſaid Commiſsioners, or the greater part of them, may, &amp; ſhall from time to time, and have hereby power to diſplace, and to place others in their rooms &amp; to allow them ſuch ſeverall yeerly Wages out of the Receits of the ſaid Office, for their paines and ſer<g ref="char:EOLhyphen"/>vice therein, as the ſaid Commiſsioners, or the greater part of them ſhall thinke fit and reaſonable, and as ſhall be approved of, and allowed by both Houſes of Parli<g ref="char:EOLhyphen"/>ament.</p>
+                  <p n="5">V. And it is further Ordained by the ſaid Lords and Commons, That the Seven Commiſsioners herein na<g ref="char:EOLhyphen"/>med, ſhall be, and are hereby nominated and appointed to be Governors of the ſaid Office, viz. <hi>John Towes</hi> Eſq; Alderman of the City of <hi>London, Thomas Foote</hi> Eſquire Alderman of the City of <hi>London, John <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enrick</hi> Eſquire Alderman of the City of <hi>London, Thomas Cullam</hi> Eſquire Alderman of the City of <hi>London, Simond Edmunds, John Lamet,</hi> and <hi>Edward Claxton,</hi> Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </p>
+                  <p n="6">VI. And it is further Ordained by the ſaid Lords and Commons, That the Commiſsioners hereby, or hereafter to be appointed Governors of the ſaid Office, and ſuch Treaſurer or Treaſurers us ſhall be by them choſen as aforeſaid, ſhall reſpectively before they enter upon the ſaid Office, take a ſolemne Oath before the Speaker of the Houſe of Peeres, or the Speaker of the Houſe of Commons for the time being, for the due exe<g ref="char:EOLhyphen"/>cution of their places; And every of the ſaid Speakers ſhall have power hereby to adminiſter the ſaid Oath.</p>
+                  <p n="7">VII. And it is hereby Ordained, That all parts of the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with the ſeverall Suburbs thereof, and all other places within Ten miles
+<pb n="11" facs="tcp:46727:7"/> thereof, or thereabouts, which ſhall be thought fit by the ſaid Commiſsioners, ſhall be ſubject to the Rule and Government of the ſaid Office.</p>
+                  <p n="8">VIII. And that the like Office and Offices, and ſo many of them, and ſuch and ſo many other ſubordinate Commiſsioners ſhall be erected and appointed in all or any the Counties of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Towne of <hi>Berwick,</hi> and in all ſuch Cities, and places thereof, as the ſaid Seven Commiſsioners, or the Sur<g ref="char:EOLhyphen"/>vivors of them, or major part of them, or ſuch other as ſhall be appointed chiefe Commiſsioner<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, or the major part of them for the time being ſhall appoint, for whom the ſaid chiefe Commiſsioners ſhall be anſwerable. And the ſaid ſubordinate Commiſsioners ſhall take the like Oath reſpectively before the Speaker of either Houſe of Parl. or ſuch perſon or perſons as the ſaid Speaker ſhall appoint under his hand and ſeal, or before the ſaid chief Commiſsioners, or ſuch other perſon or perſons as they or the major part of them, under their hands and ſeals ſhall appoint; which ſaid ſeverall Speakers, Com<g ref="char:EOLhyphen"/>miſsioners, and other perſons ſo by them Authoriſed, ſhall have power to miniſter the ſaid Oath.</p>
+                  <p n="9">IX. And the ſaid ſubordinate Commiſsioners, and other inferior Officers which ſhall be imployed by the ſaid chiefe Commiſsioners, ſhall have for their ſe<g ref="char:EOLhyphen"/>verall paines in and about the ſaid buſineſſe, ſuch rea<g ref="char:EOLhyphen"/>ſonable ſum and ſums of money allowed them as the ſaid chief Commiſsioners or the major part of them for the time being ſhall thinke fit and appoint, with the al<g ref="char:EOLhyphen"/>lowance of both Houſes of Parliament.</p>
+                  <p n="10">X. Item, that the ſaid ſeverall and reſpective Com<g ref="char:EOLhyphen"/>miſsioners ſhall quarterly make their accompts of all their receipts and disburſements at the ſaid Office in
+<pb n="12" facs="tcp:46727:8"/> 
+                     <hi>London,</hi> unto one or more Auditor or Auditors to be appointed by the ſaid houſes to receive the ſame; which ſaid Auditor or Auditors ſhall take the like Oath for the due execution of their places, and in ſuch manner as is hereby appointed for the ſaid Commiſſioners; and ſhall make and keepe a Duplicate or counter-part of all accompts and entries in the ſaid ſeverall Offices, the ſame to be preſented by the ſaid Auditor or Auditors to the ſaid Houſes, when, and as often as it is required. And <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> 
+                     <hi>Faulconbridge</hi> of the City of <hi>Weſtminſter,</hi> Gent. is hereby nominated and appointed Auditor for the ſaid ſervice.</p>
+                  <p n="11">XI. Item, that the ſaid Commiſſioners, or any of them, ſhall not iſſue out any money, raiſed, or levied by vertue of this Ordinance to any perſon or perſons whatſoever, but by order of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment to be directed to the ſaid chiefe Commiſſioners, or the greater part of them, unleſſe it be concerning the payment of the ſaid chiefe Commiſſioners allowances Quarterly; and of wages to the ſaid ſubordinate Com<g ref="char:EOLhyphen"/>miſſioners and other Officers; and of Rents due for houſe-roome or roomes where the ſaid Offices ſhall be kept, or other neceſſary expences in and about the ſaid Offices, the ſaid ſeverall ſummes and disburſments to be ſuch as ſhall be allowed of by both Houſes of Parli<g ref="char:EOLhyphen"/>ament: which ſaid Commiſſioners upon paſſing of their accompts, ſhall from time to time be diſcharged thereof by both Houſes of Parliament: And that it ſhall and may be lawfull to, and for every of the ſaid chiefe Commiſsioners to make a Deputy, for whom he will anſwer.</p>
+                  <p n="12">XII. Item, that the ſaid Office in all places where it ſhall be kept, ſhall be kept upon all the weeke dayes
+<pb n="13" facs="tcp:46727:8" rendition="simple:additions"/> (except the Lords day) from eight of the clocke in the morning, till twelve at noone, and from two of the clock in the afternoone, till ſix in the afternoone, for the entring and Regiſtring of the names and ſir-names, as well of the Sellers, Buyers, and Makers of the ſaid ſe<g ref="char:EOLhyphen"/>verall commodities in the ſaid Schedule mentioned, and the ſeverall quantities and values thereof, and for re<g ref="char:EOLhyphen"/>ceiving of all moneys which ſhall bee due and payable for the <hi>Exciſe,</hi> and for other things neceſſary to be done touching the ſaid buſineſſe, which ſaid entries ſhall bee made accordingly.</p>
+                  <p n="13">XIII. That all and every the Merchants and Im<g ref="char:EOLhyphen"/>porters of the ſaid forraign co<g ref="char:cmbAbbrStroke">̄</g>modities in the ſaid Sche<g ref="char:EOLhyphen"/>dule mentioned, and all common Brewers of Ale or Beere, and Diſtillers of Aquavitae, and Strong-waters, and others chargeable by this Ordinance, with the <hi>Ex<g ref="char:EOLhyphen"/>ciſe</hi> for any the co<g ref="char:cmbAbbrStroke">̄</g>modities in the ſaid Schedule menti<g ref="char:EOLhyphen"/>oned, ſhall weekely cauſe to be entred into the ſaid re<g ref="char:EOLhyphen"/>ſpective Offices a true and perfect liſt or accompt of all and every the ſaid commodities reſpectively, and of the ſaid Ale and Beere and ſtrong-waters, weekly brewed, made or diſtilled, and ſhall not deliver any of the ſaid commodities to any of the Buyers thereof, or other per<g ref="char:EOLhyphen"/>ſon or perſons (except ſuch of the ſaid commodities as ſhall be by the licence of the ſaid chiefe Commiſſioners or the <hi>major</hi>-part of them, or ſuch as they ſhall appoint, be tranſported beyond Sea) untill the ſame ſhall be ſo entred as aforeſaid; And that no perſon or perſons chargeable with the ſaid <hi>Exciſe,</hi> ſhall ſell or diſpoſe of any of the ſaid commodities, without firſt receiving a Ticket or Warrant from the ſaid reſpective Office, that the <hi>Exciſe</hi> or new Impoſt due for the ſame is payd or ſatisfied, and if any of the ſellers of any of the ſaid
+<pb n="14" facs="tcp:46727:9"/> commodities chargeable with the <hi>Exciſe</hi> ſhall refuſe or neglect to make a true entry thereof, according to the laſt precedent Article, or ſhall doe any thing contrary thereunto; the ſame being proved by Oath of two witneſſes before the ſaid reſpective Commiſſioners, or the <hi>major</hi> part of them, who ſhall have power hereby to miniſter the ſaid Oath, or confeſſed by the party, ſhall forfeit double the value of the ſaid goods or commodi<g ref="char:EOLhyphen"/>ties ſo by him or them neglected to be entred, or ſo de<g ref="char:EOLhyphen"/>livered, ſold or diſpoſed of contrary to the ſaid Article to the uſe of the Common-wealth, the ſame to be levy<g ref="char:EOLhyphen"/>ed by the ſaid reſpective Commiſsioners or Deputies, or ſuch as they or the <hi>major</hi> part of them ſhall appoint by diſtreſſe and ſale of the offenders goods (if they ſhall not be redeemed within fourteene dayes) rendring to the party the over-plus, and for want of ſufficient di<g ref="char:EOLhyphen"/>ſtreſſe all and every the ſaid Commiſsioners or Depu<g ref="char:EOLhyphen"/>ties, or the <hi>major</hi> part of them reſpectively, or ſuch as they ſhall appoint, ſhall have power to commit ſuch offendor to Priſon, till he pay the ſaid forfeiture.</p>
+                  <p n="14">XIV. That no Merchant, Tradeſman, Stranger, Ship-maſter, Mariner, or other perſon or perſons, Importer of any goods or Merchandize into the Port of <hi>London,</hi> Cinque Ports or other Port, Creeke, or place whatſoever within this Realme, the Dominion of <hi>Wales,</hi> or Town of <hi>Berwick,</hi> ſhall land or diſcharge any goods or commodities upon the ſhore before they ſhall have firſt given notice thereof to the Officers of <hi>Exciſe</hi> for that place, by delivery of a Bill of entry un<g ref="char:EOLhyphen"/>der his hand, ſpecifying the ſaid ſeverall goods or com<g ref="char:EOLhyphen"/>modities ſo imported, their quantities, weights, and meaſures reſpectively, under the penalty in the ſaid next precedent Article contained, and to be levied in like manner.</p>
+                  <p n="15">
+                     <pb n="15" facs="tcp:46727:9" rendition="simple:additions"/>XV. And be it ordained, that it ſhall or may be law<g ref="char:EOLhyphen"/>full to and for the ſaid reſpective Commiſſioners, or the major part of them, out of the forfeitures above mentioned, to give and allow to any perſon or perſons which ſhall informe them of any abuſe committed by any perſon or perſons contrary to this Ordinance, ſo much money for his and their reward and recompence, of his or their paines, as the ſaid Commiſſioners, or the major part of them ſhall thinke fit, the ſame to be allowed to the ſaid Commiſſioners upon their ac<g ref="char:EOLhyphen"/>compts.</p>
+                  <p n="16">XVI. That if any common Beere-brewer, Alehouſe<g ref="char:EOLhyphen"/>keeper, Cider or Perry maker, or other perſon charge<g ref="char:EOLhyphen"/>able with the ſaid Exciſe in the Country, or in any Ci<g ref="char:EOLhyphen"/>tie, Towne, or place, doe not make a true entry in manner aforeſaid in the ſaid Office appointed, in the Country, City or place, where they dwell, or in ſuch Office erected, next to their place of dwelling, and the ſame bee confeſſed, or proved, as aforeſaid, then they ſhall incurre the like penalty as aforeſaid, the ſame to bee levied and diſpoſed of in ſuch manner as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+                  <p n="17">XVII. <hi>Item,</hi> That the ſaid Chiefe Commiſſio<g ref="char:EOLhyphen"/>ners, or the major part of them, ſhall have power to puniſh all inordinate Officers, or other perſons belong<g ref="char:EOLhyphen"/>ing to the ſaid Offices, which ſhall be wilfully negligent, remiſſe, or refractory in the ſaid ſervice, by fine, not exceeding the double value of their yeerely wages, the ſame to be levied, and imployed in ſuch maner as afore<g ref="char:EOLhyphen"/>ſaid: And ſhall likewiſe have power to puniſh any o<g ref="char:EOLhyphen"/>ther offence, contrary to this Ordinance, (not hereby otherwiſe provided for) by fine or amercement to be
+<pb n="16" facs="tcp:46727:10"/> levied and imployed in ſuch manner as is appointed for the ſaid other penalties.</p>
+                  <p n="18">XVIII. And be in further ordained, that the Cuſto<g ref="char:EOLhyphen"/>mers or Commiſſioners for Tonnage and Poundage, ſhall from time to time, permit and ſuffer the ſaid re<g ref="char:EOLhyphen"/>ſpective Commiſſioners or any of them, or any of their Deputy or Deputies, or ſuch as they ſhall appoint, to ſearch, view, or examine, any Note, Booke, or Bookes, belonging to the Cuſtome houſes, or to take Copies thereof, or of as much thereof as they pleaſe. And that the ſaid Commiſſioners of Exciſe or any of them, or any of the ſaid chiefe Commiſſioners Deputies, ſhall have a place to ſit in the Cuſtome houſes, and ſhall have power by themſelves or their Agents to take notes or copies of all entries of goods and merchandizes im<g ref="char:EOLhyphen"/>ported, or to be imported from time to time.</p>
+                  <p n="19">XIX. <hi>Item.</hi> That the ſaid reſpective Commiſſio<g ref="char:EOLhyphen"/>ners of Exciſe, and Deputies of the ſaid chiefe Com<g ref="char:EOLhyphen"/>miſſioners, or the major part of them, reſpectively ſhall have power and authority to call before them any per<g ref="char:EOLhyphen"/>ſon or perſons, whom they ſhall thinke fit, to informe and teſtifie touching the premiſes, and to examine any ſuch perſon, (other then the party himſelfe) upon oath, for the better diſcovery of any fraud or guile, in the not entring of any of the ſaid Commodities, or not pay<g ref="char:EOLhyphen"/>ment of the Exciſe, or new Impoſt, according to the tenor of this preſent Ordinance; which the ſaid Com<g ref="char:EOLhyphen"/>miſſioners or the major part of them, or ſuch as they ſhall appoint under their hands and ſeales, ſhall have power to adminiſter, and the teſtimony of two credi<g ref="char:EOLhyphen"/>ble witneſſes ſhall be ſufficient in that behalfe.</p>
+                  <p n="20">XX. <hi>Item.</hi> That there ſhall be allowed yeerely un<g ref="char:EOLhyphen"/>to
+<pb n="17" facs="tcp:46727:10" rendition="simple:additions"/> every of the ſaid chiefe Commiſſioners of Exciſe for the time being, for his care and paines in and about the ſaid ſervice, the ſumme of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> to be paid him quarterly to his owne uſe.</p>
+                  <p n="21">XXI. <hi>Item.</hi> That this Ordinance ſhall begin and take effect from the eleventh day of <hi>September,</hi> 1643. and from thence to continue for one yeere, then next fol<g ref="char:EOLhyphen"/>lowing.</p>
+                  <p n="22">XXII. That the ſaid reſpective Commiſſioners, or the major part of them, ſhall from time to time ap<g ref="char:EOLhyphen"/>point any Officer or Officers belonging to the ſaid Of<g ref="char:EOLhyphen"/>fice, to enter into the Sellers, Shops, Warehouſes, Storehouſes, or other places of every perſon or perſons that ſelleth, byeth, or ſpendeth, any of the ſaid Com<g ref="char:EOLhyphen"/>modities in the ſaid Schedule mentioned, to ſearch and ſee what quantities of any of the ſaid Commodities, every or any ſuch perſon hath on his hands, or any other perſon or perſons to his uſe, and for the prevent<g ref="char:EOLhyphen"/>ing of all fraud and abuſes that may be uſed of practiſed to avoid the payment of the ſaid Exciſe and new Im<g ref="char:EOLhyphen"/>poſt.</p>
+                  <p n="23">XXIII. That all Juſtices of the Peace, Mayors, Bay<g ref="char:EOLhyphen"/>liffes, Sheriffes, Conſtables, and all other Officers, be from time to time ayding and aſſiſting to all and every the ſaid reſpective Commiſſioners, and other Officers of Exciſe, and to every of them appointed by this Or<g ref="char:EOLhyphen"/>dinance, in the execution thereof, and of the Articles therein contained: and that eſpeciall care be taken, as well by the ſaid reſpective Commiſſioners, as the ſaid Juſtices of Peace and other Officers, whom it ſhall concerne, and every of them, That the Aſſizes of Beere, Ale, Wine, and other things, be duly kept and
+<pb n="2" facs="tcp:46727:11"/> obſerved, and the abuſes therein puniſhed according to the Lawes and Statutes in that behalfe made, as they will anſwer the contrary to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="24">XXIV. That the ſaid Commiſſioners and other Of<g ref="char:EOLhyphen"/>ficers, and every of them appointed by this Ordinance, ſhall have power to call the Trained Bands, Voluntiers, or other Forces, of or within any County, City, or Place, reſpectively to be ayding and aſſiſting to them, to compell obedience to this Ordinance where any re<g ref="char:EOLhyphen"/>ſiſtance ſhall be made: which ſaid Trained Bands, Vo<g ref="char:EOLhyphen"/>luntiers and other Forces, and their ſeverall Comman<g ref="char:EOLhyphen"/>ders and other Officers, are hereby required and enjoy<g ref="char:EOLhyphen"/>ned to give their aide and aſſiſtance accordingly as oft as neede ſhall require.</p>
+                  <p n="25">XXV. And be it further ordained, That as well all and every the ſaid Commiſſioners, Deputies, Treaſurers, Regiſters, Receivers, Auditors, or other Officers what<g ref="char:EOLhyphen"/>ſoever, belonging to the ſaid ſeverall Offices, as all and every other perſon and perſons which ſhall doe any thing in execution or performance of this preſent Ordi<g ref="char:EOLhyphen"/>nance, ſhall be therein from time to time protected and ſaved harmeleſſe, by the power and authority of both Houſes of Parliament.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:46727:11" rendition="simple:additions"/>
+            <head>An Ordinance and Declaration of the Lord and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, touching the Salary and Allowance to be made to the Commiſſioners and Auditors for the Exciſe. Together with the ſeverall Oathes to be taken by them. As alſo directing the manner and time of the Entries to be made of all Goods bought or ſold, chargeable with the Exciſe, ſince the 11. of <hi>September,</hi> 1643.</head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae <hi>18.</hi> Sept. <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas an Ordinance was lately made by the Lords and Commons in Parliament, fon ſet<g ref="char:EOLhyphen"/>ting of a charge by way of Exciſe or new Impoſt upon the ſeverall Commodities in a Schedule, thereunto annexed, contained. In which Ordinance no certaine Salary is ex<g ref="char:EOLhyphen"/>preſſed for the Commiſſioners thereby ap<g ref="char:EOLhyphen"/>pointed to execute the ſame.</p>
+            <p>Be it now Declared and Ordained by the ſaid Lords and Commons, that the chiefe Commiſſioners appointed by the ſaid Ordinance to put the ſame in execution, or as many of them as ſhall execute the ſame, ſhall have for their paines and ſervice therein ſix pence in every twenty ſhillings that ſhal be rai<g ref="char:EOLhyphen"/>ſed and paid in to the Treaſurer or Treaſurers of Exciſe appoin<g ref="char:EOLhyphen"/>ted by the ſaid Ordinance, the ſame to be allowed them quarter<g ref="char:EOLhyphen"/>ly upon their accompts by the ſaid Treaſurer or Treaſurers, without any further Warrant.</p>
+            <pb n="6" facs="tcp:46727:12"/>
+            <p>And be it further hereby Ordained, That <hi>William Bond</hi> of <hi>London,</hi> Merchant, be appointed an Auditor for the ſaid ſervice, over and beſides Maſter <hi>Thomas Fawconbridge,</hi> who was appoin<g ref="char:EOLhyphen"/>ted an Auditor by the ſaid former Ordinance, and to have the like power with him: And that every of the ſaid Auditors ſhall have for their ſeverall paines and ſervice in that behalfe the ſum of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>per Annum,</hi> to be allowed them quarterly by the ſaid Treaſurer or Treaſurers out of their Re<g ref="char:EOLhyphen"/>ceipts, without any further Warrant.</p>
+            <p>And it is hereby Ordained, That the ſaid Commiſſioners, upon paſſing of their accompts before the Auditor or Auditors for the time being, and allowance thereof by the ſaid Houſes, ſhall be diſcharged of the ſaid accompts from time to time by both the ſaid Houſes.</p>
+            <p>And be it further Ordained by the ſaid Lords and Commons, That the ſeverall Commiſsioners and Auditors appointed, and to be appointed for the ſaid ſervice, ſhall take the ſeverall Oaths herein preſcribed, in ſuch manner as by the ſaid Ordinance is expreſt.</p>
+            <div type="oath">
+               <head>The forme of the oath for the <hi>Commiſsioners,</hi>
+               </head>
+               <p>YOU ſhall ſweare to be faithfull and true in your place of Commiſsioner for the Exciſe during the time you ſhall be a Commiſsioner, according to the Ordinance of both Houſes of Parliament in that behalfe made. You ſhall according to your knowledge execute the ſame diligently and faithfully, having no private reſpect to your ſelfe in prejudice of the Common-wealth. You ſhall make and deliver a true accompt of all your Receipts and Disburſments, to ſuch Auditor or Auditors as is, are, or ſhall be from time to time appointed by both Houſes of Parliament, according to the ſaid Ordinance. <hi>So help you God, and the contents of this Book.</hi>
+               </p>
+            </div>
+            <div type="oath">
+               <pb n="7" facs="tcp:46727:12"/>
+               <head>The forme of the Oath for the <hi>Auditors.</hi>
+               </head>
+               <p>
+                  <hi>YOU ſhall ſweare to be faithfull &amp; true in your Office of Au<g ref="char:EOLhyphen"/>ditor for the Exciſe, during your continuance in the ſaid Office, according the Ordinance of both Houſes of Parliament in that behalfe made. You ſhall take the accompts which ſhall be made unto you quarterly by the Commiſsioners for Exciſe, and make true Entries and duplicates or counterparts thereof, and ſhal truely preſent the ſame to both Houſes of Parliament, as by the ſaid Ordinance is appointed; And in all things di<g ref="char:EOLhyphen"/>ligently and truely execute your ſaid Office to the beſt of your skill and knowledge.</hi> So helpe you God, and the Contents of this Booke.</p>
+               <p>And be it Declared and Ordained, That all manner of perſons who have bought or ſold any Goods or Commodities chargea<g ref="char:EOLhyphen"/>ble with the Exciſe, ſince the eleventh of this inſtant <hi>September,</hi> 1643. or ſhall buy or ſell any ſuch Goods before the execution of this Ordinance, ſhall within ten dayes next after the twenty<g ref="char:EOLhyphen"/>eth day of this moneth (if the ſaid Goods were or ſhall be bought or ſold within the Cities or Suburbs of <hi>London</hi> or <hi>Weſtminſter,</hi> or ten miles compaſſe thereof) or if in any other place or places, then within ten dayes next after the erection of the ſaid Office of Exciſe in or neere ſuch place or places, cauſe entry thereof to be made in the ſeverall and reſpective Offices, to which the ſame ſhall belong, that ſo the duty of Exciſe may be diſcovered and paid for the ſame, under paine of forfeiture of double the value of the ſaid Goods or Merchandizes, to be levyed in ſuch man<g ref="char:EOLhyphen"/>ner and forme, and to ſuch uſes as by the ſaid Ordinance is ap<g ref="char:EOLhyphen"/>pointed, for not entry of Goods liable to the Exciſe.</p>
+               <closer>
+                  <signed>John Browne Cler. Parliamentorum.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
